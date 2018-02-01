@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">CreditCardExample</string>
+  <string name="name_on_card">Name On Card</string>
+  <string name="cvv">CVV</string>
+  <string name="expiry_date">Expiry Date</string>
+  <string name="card_number">Card Number</string>
+</resources>
